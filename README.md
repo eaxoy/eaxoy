@@ -1,5 +1,5 @@
 # 💫 About Me:
-Implementing most advance data science and data analysis tools to e-commerce.
+Implementing most advanced data science and data analytics tools to e-commerce.
 
 
 ## 🌐 Socials:
